@@ -1,5 +1,5 @@
 {
-    "name": "eat-da-buger",
+    "name": "eat-It",
     "version": "1.0.0",
     "description": "A restaurant app that lets users input the names of burgers they'd like to eat",
     "main": "server.js",
