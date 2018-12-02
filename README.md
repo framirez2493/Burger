@@ -8,3 +8,5 @@ Whenever a user submits a burger's name, the app will display the burger on the 
 Each burger in the waiting area also has a eat it! button. When the user clicks it, the burger will move to the right side of the page with customer.
 
 The app will store every burger in a database, whether eat it or not.
+go to  https://pure-fjord-54486.herokuapp.com/
+or npm install and run it on http8080.
